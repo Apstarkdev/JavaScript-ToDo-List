@@ -101,7 +101,7 @@ body {
 }
 
 .btn-agregar:hover {
-    box-shadow: inset 300px 0 0 0 #a8dadc;
+    box-shadow: inset 300px 0 0 0 #39e647d0;
     transition: ease-out 0.9s;
     ;
     font-size: 1rem;
@@ -153,8 +153,8 @@ body {
 }
 
 .li-container::-webkit-scrollbar-thumb{
-    background-color: #e63946;
-    border-radius: 5px;
+    background-color: #37d184;
+    border-radius: 10px;
 }
 
 
